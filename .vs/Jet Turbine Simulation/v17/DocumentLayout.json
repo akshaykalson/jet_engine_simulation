@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aksha\\OneDrive\\Documents\\Projects\\Unity\\Jet Turbine Engine\\Jet Turbine Simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCDA8D7-6122-4525-5223-4F7992647874}|Assembly-CSharp.csproj|C:\\Users\\aksha\\OneDrive\\Documents\\Projects\\Unity\\Jet Turbine Engine\\Jet Turbine Simulation\\assets\\scripts\\rotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCDA8D7-6122-4525-5223-4F7992647874}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCDA8D7-6122-4525-5223-4F7992647874}|Assembly-CSharp.csproj|c:\\users\\aksha\\onedrive\\documents\\projects\\unity\\jet turbine engine\\jet turbine simulation\\assets\\scripts\\meshtoggler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCDA8D7-6122-4525-5223-4F7992647874}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\meshtoggler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeshToggler.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\OneDrive\\Documents\\Projects\\Unity\\Jet Turbine Engine\\Jet Turbine Simulation\\Assets\\Scripts\\MeshToggler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MeshToggler.cs",
+              "ToolTip": "C:\\Users\\aksha\\OneDrive\\Documents\\Projects\\Unity\\Jet Turbine Engine\\Jet Turbine Simulation\\Assets\\Scripts\\MeshToggler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MeshToggler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:54:23.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotationController.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\OneDrive\\Documents\\Projects\\Unity\\Jet Turbine Engine\\Jet Turbine Simulation\\Assets\\Scripts\\RotationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotationController.cs",
+              "ToolTip": "C:\\Users\\aksha\\OneDrive\\Documents\\Projects\\Unity\\Jet Turbine Engine\\Jet Turbine Simulation\\Assets\\Scripts\\RotationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:18:36.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
